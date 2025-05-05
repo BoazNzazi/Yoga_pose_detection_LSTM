@@ -38,8 +38,8 @@ yoga_pose_detection/
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/BoazNzazi/yoga_pose_detection.git
-   cd yoga_pose_detection
+   git clone https://github.com/BoazNzazi/Yoga_pose_detection_LSTM.git
+   cd Yoga_pose_detection_LSTM
    
 2. Créez un environnement virtuel (optionnel mais recommandé)
    
